@@ -1,143 +1,143 @@
 
-{
-  "banners": [
-    {
-      "id": "pic1",
-      "img": "https://2946897606-bot.github.io/mydata/banner_pic1.png"
-    },
-    {
-      "id": "pic2",
-      "img": "https://2946897606-bot.github.io/mydata/banner_pic2.png"
-    },
-    {
-      "id": "pic3",
-      "img": "https://2946897606-bot.github.io/mydata/banner_pic3.png"
-    },
-    {
-      "id": "pic4",
-      "img": "https://2946897606-bot.github.io/mydata/banner_pic4.png"
-    },
-    {
-      "id": "pic5",
-      "img": "https://2946897606-bot.github.io/mydata/banner_pic5.png"
-    }
-  ],
-  "enablements": [
-    {
-      "id": "1",
-      "img": "https://2946897606-bot.github.io/mydata/enablement_pic1.png",
-      "title": "HarmonyOS第一课",
-      "brief": "基于真实的开发场景，提供向导式学习，多维度融合课程等内容，给开发者提供全新的学习体验。"
-    },
-    {
-      "id": "2",
-      "img": "https://2946897606-bot.github.io/mydata/enablement_pic2.png",
-      "title": "开发指南",
-      "brief": "提供系统能力概述、快速入门，用于指导开发者进行场景化的开发。"
-    },
-    {
-      "id": "3",
-      "img": "https://2946897606-bot.github.io/mydata/enablement_pic3.png",
-      "title": "最佳实践",
-      "brief": "针对新发布特性及热点特性提供详细的技术解析和开发最佳实践。"
-    },
-    {
-      "id": "4",
-      "img": "https://2946897606-bot.github.io/mydata/enablement_pic4.png",
-      "title": "Codelabs",
-      "brief": "以教学为目的的代码样例及详细的开发指导，帮助开发者一步步地完成指定场景的应用开发并掌握相关知识。"
-    },
-    {
-      "id": "5",
-      "img": "https://2946897606-bot.github.io/mydata/enablement_pic5.png",
-      "title": "Sample",
-      "brief": "面向不同类型的开发者提供鸿蒙生态应用开发优秀实践，每个Sample Code都是一个可运行的工程，为开发者提供实例化的代码参考。"
-    },
-    {
-      "id": "6",
-      "img": "https://2946897606-bot.github.io/mydata/enablement_pic6.png",
-      "title": "API参考",
-      "brief": "面向开发者提供鸿蒙系统开放接口的全集，供开发者了解具体使用方法。"
-    },
-    {
-      "id": "7",
-      "img": "https://2946897606-bot.github.io/mydata/enablement_pic7.png",
-      "title": "FAQ",
-      "brief": "开发者常见问题的总结，帮助开发者更高效地解决问题。"
-    },
-    {
-      "id": "8",
-      "img": "https://2946897606-bot.github.io/mydata/enablement_pic8.png",
-      "title": "开发者论坛",
-      "brief": "和其他应用开发者交流技术、共同进步。"
-    }
-  ],
-  "tutorials": [
-    {
-      "id": "1",
-      "img": "https://2946897606-bot.github.io/mydata/tutorial_pic1.png",
-      "title": "Step1 环境的搭建",
-      "brief": "本篇教程实现了快速入门——一个用于了解和学习HarmonyOS的应用程序。"
-    },
-    {
-      "id": "2",
-      "img": "https://2946897606-bot.github.io/mydata/tutorial_pic2.png",
-      "title": "Step2 使用Swiper构建运营广告位",
-      "brief": "Swiper组件提供滑动轮播显示的能力。"
-    },
-    {
-      "id": "3",
-      "img": "https://2946897606-bot.github.io/mydata/tutorial_pic3.png",
-      "title": "Step3 创建和组合视图",
-      "brief": "Item定义子组件相关特征，支持条件渲染、循环渲染和懒加载。"
-    },
-    {
-      "id": "4",
-      "img": "https://2946897606-bot.github.io/mydata/tutorial_pic4.png",
-      "title": "Step4 网格和列表组件的使用",
-      "brief": "学习网格和列表组件的使用，以及内容超出屏幕时的滚动功能。"
-    },
-    {
-      "id": "5",
-      "img": "https://2946897606-bot.github.io/mydata/tutorial_pic5.png",
-      "title": "Step5 应用架构设计基础——MVVM模式",
-      "brief": "ArkUI采用MVVM模式，将数据与视图绑定，数据更新可以驱动UI更新。"
-    },
-    {
-      "id": "6",
-      "img": "https://2946897606-bot.github.io/mydata/tutorial_pic6.png",
-      "title": "Step6 应用架构设计基础——三层架构",
-      "brief": "通过三层架构实现应用功能模块化，提升代码的内聚性与可维护性。"
-    },
-    {
-      "id": "7",
-      "img": "https://2946897606-bot.github.io/mydata/tutorial_pic7.png",
-      "title": "Step7 ArkWeb页面适配",
-      "brief": "学习Web组件的页面加载、页面交互和页面调试能力。"
-    },
-    {
-      "id": "8",
-      "img": "https://2946897606-bot.github.io/mydata/tutorial_pic8.png",
-      "title": "Step8 数据驱动UI更新",
-      "brief": "数据更新的同时会直接驱动UI的改变。"
-    },
-    {
-      "id": "9",
-      "img": "https://2946897606-bot.github.io/mydata/tutorial_pic9.png",
-      "title": "Step9 设置组件导航",
-      "brief": "学习Navigation组件的页面切换与路由能力。"
-    },
-    {
-      "id": "10",
-      "img": "https://2946897606-bot.github.io/mydata/tutorial_pic10.png",
-      "title": "Step10 原生智能：AI语音朗读",
-      "brief": "学习文本转语音服务，实现文本信息的语音播报。"
-    },
-    {
-      "id": "11",
-      "img": "https://2946897606-bot.github.io/mydata/tutorial_pic11.png",
-      "title": "Step11 原生互联：分布式流转",
-      "brief": "学习跨设备流转与多设备协同能力。"
-    }
-  ]
-}
+  {
+    "bannerList": [
+      {
+        "id": "pic1",
+        "img": "https://2946897606-bot.github.io/mydata/banner_pic1.png"
+      },
+      {
+        "id": "pic2",
+        "img": "https://2946897606-bot.github.io/mydata/banner_pic2.png"
+      },
+      {
+        "id": "pic3",
+        "img": "https://2946897606-bot.github.io/mydata/banner_pic3.png"
+      },
+      {
+        "id": "pic4",
+        "img": "https://2946897606-bot.github.io/mydata/banner_pic4.png"
+      },
+      {
+        "id": "pic5",
+        "img": "https://2946897606-bot.github.io/mydata/banner_pic5.png"
+      }
+    ],
+    "suitList": [
+      {
+        "id": "1",
+        "img": "https://2946897606-bot.github.io/mydata/enablement_pic1.png",
+        "title": "HarmonyOS第一课",
+        "brief": "基于真实的开发场景，提供向导式学习，多维度融合课程等内容，给开发者提供全新的学习体验。"
+      },
+      {
+        "id": "2",
+        "img": "https://2946897606-bot.github.io/mydata/enablement_pic2.png",
+        "title": "开发指南",
+        "brief": "提供系统能力概述、快速入门，用于指导开发者进行场景化的开发。"
+      },
+      {
+        "id": "3",
+        "img": "https://2946897606-bot.github.io/mydata/enablement_pic3.png",
+        "title": "最佳实践",
+        "brief": "针对新发布特性及热点特性提供详细的技术解析和开发最佳实践。"
+      },
+      {
+        "id": "4",
+        "img": "https://2946897606-bot.github.io/mydata/enablement_pic4.png",
+        "title": "Codelabs",
+        "brief": "以教学为目的的代码样例及详细的开发指导，帮助开发者一步步地完成指定场景的应用开发并掌握相关知识。"
+      },
+      {
+        "id": "5",
+        "img": "https://2946897606-bot.github.io/mydata/enablement_pic5.png",
+        "title": "Sample",
+        "brief": "面向不同类型的开发者提供鸿蒙生态应用开发优秀实践，每个Sample Code都是一个可运行的工程，为开发者提供实例化的代码参考。"
+      },
+      {
+        "id": "6",
+        "img": "https://2946897606-bot.github.io/mydata/enablement_pic6.png",
+        "title": "API参考",
+        "brief": "面向开发者提供鸿蒙系统开放接口的全集，供开发者了解具体使用方法。"
+      },
+      {
+        "id": "7",
+        "img": "https://2946897606-bot.github.io/mydata/enablement_pic7.png",
+        "title": "FAQ",
+        "brief": "开发者常见问题的总结，帮助开发者更高效地解决问题。"
+      },
+      {
+        "id": "8",
+        "img": "https://2946897606-bot.github.io/mydata/enablement_pic8.png",
+        "title": "开发者论坛",
+        "brief": "和其他应用开发者交流技术、共同进步。"
+      }
+    ],
+    "tutorialList": [
+      {
+        "id": "1",
+        "img": "https://2946897606-bot.github.io/mydata/tutorial_pic1.png",
+        "title": "Step1 环境的搭建",
+        "brief": "本篇教程实现了快速入门——一个用于了解和学习HarmonyOS的应用程序。"
+      },
+      {
+        "id": "2",
+        "img": "https://2946897606-bot.github.io/mydata/tutorial_pic2.png",
+        "title": "Step2 使用Swiper构建运营广告位",
+        "brief": "Swiper组件提供滑动轮播显示的能力。"
+      },
+      {
+        "id": "3",
+        "img": "https://2946897606-bot.github.io/mydata/tutorial_pic3.png",
+        "title": "Step3 创建和组合视图",
+        "brief": "Item定义子组件相关特征，支持条件渲染、循环渲染和懒加载。"
+      },
+      {
+        "id": "4",
+        "img": "https://2946897606-bot.github.io/mydata/tutorial_pic4.png",
+        "title": "Step4 网格和列表组件的使用",
+        "brief": "学习网格和列表组件的使用，以及内容超出屏幕时的滚动功能。"
+      },
+      {
+        "id": "5",
+        "img": "https://2946897606-bot.github.io/mydata/tutorial_pic5.png",
+        "title": "Step5 应用架构设计基础——MVVM模式",
+        "brief": "ArkUI采用MVVM模式，将数据与视图绑定，数据更新可以驱动UI更新。"
+      },
+      {
+        "id": "6",
+        "img": "https://2946897606-bot.github.io/mydata/tutorial_pic6.png",
+        "title": "Step6 应用架构设计基础——三层架构",
+        "brief": "通过三层架构实现应用功能模块化，提升代码的内聚性与可维护性。"
+      },
+      {
+        "id": "7",
+        "img": "https://2946897606-bot.github.io/mydata/tutorial_pic7.png",
+        "title": "Step7 ArkWeb页面适配",
+        "brief": "学习Web组件的页面加载、页面交互和页面调试能力。"
+      },
+      {
+        "id": "8",
+        "img": "https://2946897606-bot.github.io/mydata/tutorial_pic8.png",
+        "title": "Step8 数据驱动UI更新",
+        "brief": "数据更新的同时会直接驱动UI的改变。"
+      },
+      {
+        "id": "9",
+        "img": "https://2946897606-bot.github.io/mydata/tutorial_pic9.png",
+        "title": "Step9 设置组件导航",
+        "brief": "学习Navigation组件的页面切换与路由能力。"
+      },
+      {
+        "id": "10",
+        "img": "https://2946897606-bot.github.io/mydata/tutorial_pic10.png",
+        "title": "Step10 原生智能：AI语音朗读",
+        "brief": "学习文本转语音服务，实现文本信息的语音播报。"
+      },
+      {
+        "id": "11",
+        "img": "https://2946897606-bot.github.io/mydata/tutorial_pic11.png",
+        "title": "Step11 原生互联：分布式流转",
+        "brief": "学习跨设备流转与多设备协同能力。"
+      }
+    ]
+  }
