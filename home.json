@@ -3,28 +3,23 @@
   "banners": [
     {
       "id": "pic1",
-      "img": "https://2946897606-bot.github.io/mydata/banner_pic1.png",
-      "url": "https://developer.huawei.com/consumer/cn/"
+      "img": "https://2946897606-bot.github.io/mydata/banner_pic1.png"
     },
     {
       "id": "pic2",
-      "img": "https://2946897606-bot.github.io/mydata/banner_pic2.png",
-      "url": "https://developer.huawei.com/consumer/cn/"
+      "img": "https://2946897606-bot.github.io/mydata/banner_pic2.png"
     },
     {
       "id": "pic3",
-      "img": "https://2946897606-bot.github.io/mydata/banner_pic3.png",
-      "url": "https://developer.huawei.com/consumer/cn/"
+      "img": "https://2946897606-bot.github.io/mydata/banner_pic3.png"
     },
     {
       "id": "pic4",
-      "img": "https://2946897606-bot.github.io/mydata/banner_pic4.png",
-      "url": "https://developer.huawei.com/consumer/cn/"
+      "img": "https://2946897606-bot.github.io/mydata/banner_pic4.png"
     },
     {
       "id": "pic5",
-      "img": "https://2946897606-bot.github.io/mydata/banner_pic5.png",
-      "url": "https://developer.huawei.com/consumer/cn/"
+      "img": "https://2946897606-bot.github.io/mydata/banner_pic5.png"
     }
   ],
   "enablements": [
